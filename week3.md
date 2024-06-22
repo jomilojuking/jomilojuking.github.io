@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week 3
+by: Jomiloju King
+---
+
 During my third week, I focused on cleaning up the Morgan State Basketball
 data and converting it into CSV files using Sublime Text and Excel. I also 
 started integrating Morgan’s datasets into the AI module, specifically using
