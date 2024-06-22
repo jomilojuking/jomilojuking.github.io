@@ -1,12 +1,18 @@
-ing my second week, I worked on finding sources on topics related
-to the project and created a literature review.Doing this I was able to 
-find information on Generative Adversial Network (GAN),sports news, Artificial 
-intelligence, machine lerning and how they work together to make similar
-projects. Also, my group and I concluded on the data set we are using which
-is Morgan states basketballteam's data set. 
+---
+layout: post
+title: Week 4
+by: Jomiloju King
+---
+During the fourth week, I made good progress with my Sports Brief AI project. 
+This week, I started by organizing college basketball player stats into a clear 
+format called a DataFrame. This helped me handle the data easily. Then, I combined 
+stats from different teams into one place so I could analyze them together.
+An achievement was using a transformer based tool called T5 to summarize stats.
+It made short summaries for each team and player based on their combined stats. 
 
-One of the problems I encountered this week was figuring out what type
-of AI model to use (either GAN or transformers). My group and I decided 
-to use both of them so if anything comes up with the other we would not 
-be drawn back.
+I came across a few challenges this week as well such as keeping different versions
+of data and handling missing data but I was able to work with my mentor and team members 
+to solve the issues.
+
+
 
