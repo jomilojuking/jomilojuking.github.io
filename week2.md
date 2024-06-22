@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week 2
+by: Jomiloju King
+---
+
 During my second week, I worked on finding sources on topics related
 to the project and created a literature review.Doing this I was able to 
 find information on Generative Adversial Network (GAN),sports news, Artificial 
