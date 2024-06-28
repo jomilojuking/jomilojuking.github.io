@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week 4
+by: Jomiloju King
+---
+
 In Week 5 of my Sports Brief AI project, I focused on diving deep into college basketball stats. 
 I crunched numbers like minutes played, field goals, three-pointers, free throws, points scored,
 rebounds, assists, personal fouls, turnovers, blocks, and steals. Making sure the data was accurate 
