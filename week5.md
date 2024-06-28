@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 4
-by: Jomiloju King
+author: Jomiloju King
 ---
 
 In Week 5 of my Sports Brief AI project, I focused on diving deep into college basketball stats. 
@@ -22,3 +22,5 @@ spot-on and easy to understand.
 Throughout Week 5, working closely with my mentors and teammates was crucial to tackling these
 challenges and hitting our goals. Together, we also put together a solid abstract outlining what 
 we aim to achieve with our project in sports analytics.
+
+[Back](./)
