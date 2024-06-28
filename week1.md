@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Jomiloju King
+author: Jomiloju King
 ---
 
 During the first week I accomplished learning the basics of Scikit learn, Numpy and Pandas was formally
