@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 4
-by: Jomiloju King
+author: Jomiloju King
 ---
 During the fourth week, I made good progress with my Sports Brief AI project. 
 This week, I started by organizing college basketball player stats into a clear 
