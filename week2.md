@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 4
-by: Jomiloju King
+author: Jomiloju King
 ---
 
 
@@ -16,3 +16,5 @@ One of the problems I encountered this week was figuring out what type
 of AI model to use (either GAN or transformers). My group and I decided 
 to use both of them so if anything comes up with the other we would not 
 be drawn back.
+
+[Back](./)
