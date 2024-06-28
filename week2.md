@@ -1,7 +1,8 @@
-
+---
 layout: post
-title: Week 2
-by: Jomiloju King 
+title: Week 4
+by: Jomiloju King
+---
 
 
 During my second week, I worked on finding sources on topics related
