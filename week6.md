@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 5
+title: Week 6
 author: Jomiloju King
 ---
 In Week 6 of my Sports Brief AI project, I focused on two main tasks. First,
