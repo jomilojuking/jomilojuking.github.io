@@ -8,7 +8,7 @@ developing software prototypes for both text and voice generation using Generati
 techniques. We built text generation models with frameworks like TensorFlow, which 
 helped us create better and more engaging text summaries.
 
-At the same time, we worked on voice generation tools to make dynamic sports news
+At the same time, we worked on voice generation tools to make dynamic sports news 
 reports. Our goal was to make these reports sound exciting, like live sports commentary. 
 We tried out different voice synthesis technologies and fine-tuned them to get a natural
 and emotional feel.
