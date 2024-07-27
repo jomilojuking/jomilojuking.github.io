@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week 8
+author: Jomiloju King
+---
+
 In Week 9 of my Sports Brief AI project, we made significant progress on our 
 software prototypes for text and voice generation using Generative AI
 techniques. We improved text summaries with TensorFlow and worked on voice 
