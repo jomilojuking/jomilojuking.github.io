@@ -1,5 +1,5 @@
 ## About My Project
-During my AI Research Internship, I developed a project focused on creating automated 
+During my AI Research Institute, I developed a project focused on creating automated 
 post-game content. The project utilized Python and transformers to generate accurate box scores
 and engaging video news reports from real-time game data. By fine-tuning models, we enhanced 
 the narrative depth of AI-generated reports, resulting in increased audience engagement. 
